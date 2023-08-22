@@ -1,7 +1,8 @@
 # PROJECT DESCRPTION
 ![](Images/intro.jpg)
 _______________________________________________________
-This Uber Data Analysis project aims to uncover valuable insights into the rush hour patterns and maximum pickups in the bustling city of New York. By analyzing extensive data collected over the course of 6 months, I will delve into the intricate details of Uber rides during peak hours, identifying the busiest times and locations. Through advanced statistical techniques and visualization tools, I will uncover trends, patterns, and correlations that will enable us to optimize operations, improve efficiency, and enhance the overall Uber experience for both drivers and riders. <br>This project promises to provide invaluable insights into the dynamics of New York's transportation landscape, ultimately shaping the future of urban mobility.
+This Uber Data Analysis project aims to uncover valuable insights into the rush hour patterns and maximum pickups in the bustling city of New York. By analyzing extensive data collected over the course of 6 months, I will delve into the intricate details of Uber rides during peak hours, identifying the busiest times and locations. Through advanced statistical techniques and visualization tools, I will uncover trends, patterns, and correlations that will enable us to optimize operations, improve efficiency, and enhance the overall Uber experience for both drivers and riders. <br>
+This project promises to provide invaluable insights into the dynamics of New York's transportation landscape, ultimately shaping the future of urban mobility.
 
 ### Skills/ concepts demonstrated:<br>
 
