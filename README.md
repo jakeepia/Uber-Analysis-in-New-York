@@ -5,7 +5,7 @@ This Uber Data Analysis project aims to uncover insights into rush hour patterns
 
 ### Skills/ concepts demonstrated:<br>
 
-The codes were executed using Jupyter notebook.
+The codes were executed using **Jupyter notebook.**
 - **Pandas :-** Collect and modify data
 - **Numpy :-** Carry out numeric features
 - **Matplotlib :-** Base model for data visualization
