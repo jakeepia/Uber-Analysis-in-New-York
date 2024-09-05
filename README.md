@@ -49,3 +49,6 @@ ________________________________________________________________________________
 Examine rush on Hour and Weekday
 ___________________________________________________________________________________
 ![](Images/5table.JPG) 
+
+### Observation
+Peak activity consistently occurs during regular working hours, especially mid-day, and the mid-day and evening periods are consistently the busiest across all days.
