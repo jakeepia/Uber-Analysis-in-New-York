@@ -1,5 +1,5 @@
 # Project Description
-![](Images/intro.jpg)
+![](intro1.JPG)
 _______________________________________________________
 This Uber Data Analysis project aims to uncover valuable insights into the rush hour patterns and maximum pickups in the bustling city of New York. By analyzing extensive data collected over the course of 6 months, I will delve into the intricate details of Uber rides during peak hours, identifying the busiest times and locations. <br>
 Through advanced statistical techniques and visualizations, I will uncover trends, patterns, and correlations that will enable us to optimize operations, improve efficiency, and enhance the overall Uber experience for both drivers and riders. <br>
