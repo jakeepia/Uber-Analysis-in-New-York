@@ -3,7 +3,7 @@
 _______________________________________________________
 This Uber Data Analysis project aims to uncover insights into rush hour patterns and peak pickup times in New York City. By analyzing six months of data, I will explore Uber rides during peak hours to identify the busiest times and locations. Using advanced statistical techniques and visualizations, the project seeks to reveal trends and correlations to optimize operations and enhance the Uber experience for drivers and riders. <br>
 
-### Skills/ concepts demonstrated:<br>
+### Skills/ Concepts Demonstrated:<br>
 
 The codes were executed using **Jupyter notebook.**
 - **Pandas :-** Collect and modify data
